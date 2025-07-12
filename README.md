@@ -8,8 +8,8 @@ Supported Entities
 
 UAE 
 UK 
-USA 
-Malta 
+USA  
+Malta  
 
 How to Activate Other Markets
 To Activate this API for other markets follow below steps 
