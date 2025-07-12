@@ -1,0 +1,16 @@
+{
+  "docPropertyVersion":"1.0.2",
+  "main": {
+      "title": "static-web-app",
+      "media": {
+          "alt-text": "Domain API"
+      }
+  },
+  "purpose" : {
+      "includes": ["../../../README.md['## Summary']"]
+  },
+  "documentation": {
+      "includes": ["../../../README.md[' ## Supported Entites', '## How to activate for other markets']"]
+  }
+}
+  
